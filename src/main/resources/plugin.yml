@@ -1,0 +1,6 @@
+name: RandomMode
+main: com.example.randommode.RandomMode
+version: 1.0
+api-version: '1.21'
+description: Randomly sets server hardcore true/false at startup
+authors: [YourName]
